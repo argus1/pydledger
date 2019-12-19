@@ -1,6 +1,6 @@
-Python Distributed Ledger
-
 # pydledger
+
+Distributed Ledger in Python using proof-of-authentication
 
 ## Setup Development Environment
 
